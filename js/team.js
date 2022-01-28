@@ -10,7 +10,7 @@ const API = "https://discord-web-api.glitch.me/discord/user/";
 
 const owners = [
     {
-        "id": "918276019629215785",
+        "id": "824981700492656651",
         "post": "Bot Owner",
         "GHURL": "https://github.com/hoemotion",
         "InstaURL": "https://instagram.com/karma.meme",
